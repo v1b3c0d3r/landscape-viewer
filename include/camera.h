@@ -1,7 +1,7 @@
 #ifndef CAMERA_H
 #define CAMERA_H
 
-#include <cglm/include/cglm/cglm.h>
+#include <cglm/cglm.h>
 #include <SDL2/SDL.h>
 
 typedef struct {

@@ -6,7 +6,7 @@
 #include "shader.h"
 #include "camera.h"
 #include "texture.h"
-#include <cglm/include/cglm/cglm.h>
+#include <cglm/cglm.h>
 
 int main(int argc, char* argv[]) {
     if (argc < 2) {
